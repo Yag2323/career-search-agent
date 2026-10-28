@@ -1,0 +1,29 @@
+{
+  "enabled": true,
+  "interval_seconds": 120,
+  "initial_alert_window_minutes": 1440,
+  "max_alerts_per_poll": 10,
+  "minimum_quality_score": 45,
+  "request_timeout_seconds": 20,
+  "workday_max_pages": 5,
+  "workday_max_details_per_board": 60,
+  "workable_max_details_per_board": 60,
+  "auto_discover_boards": true,
+  "boards": [
+    {
+      "provider": "SUCCESSFACTORS_RSS",
+      "board": "careers.a-star.edu.sg|en_GB",
+      "company": "A*STAR"
+    },
+    {
+      "provider": "SUCCESSFACTORS_RSS",
+      "board": "careers.stengg.com|en_GB",
+      "company": "ST Engineering"
+    },
+    {
+      "provider": "SUCCESSFACTORS_RSS",
+      "board": "careers.sutd.edu.sg|en_GB",
+      "company": "Singapore University of Technology and Design (SUTD)"
+    }
+  ]
+}

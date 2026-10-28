@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "work_status": {
+    "value": "UNKNOWN",
+    "confirmation": "USER_INPUT_REQUIRED"
+  },
+  "sponsorship_required": {
+    "value": "UNKNOWN",
+    "confirmation": "USER_INPUT_REQUIRED"
+  },
+  "graduation_date": {
+    "value": "UNKNOWN",
+    "confirmation": "USER_INPUT_REQUIRED"
+  },
+  "current_student": {
+    "value": "UNKNOWN",
+    "confirmation": "USER_INPUT_REQUIRED"
+  },
+  "internship_eligible": {
+    "value": "UNKNOWN",
+    "confirmation": "USER_INPUT_REQUIRED"
+  },
+  "notice_period_days": {
+    "value": "UNKNOWN",
+    "confirmation": "USER_INPUT_REQUIRED"
+  },
+  "available_from": {
+    "value": "UNKNOWN",
+    "confirmation": "USER_INPUT_REQUIRED"
+  },
+  "minimum_salary_intern_sgd": {
+    "value": "UNKNOWN",
+    "confirmation": "USER_INPUT_REQUIRED"
+  },
+  "minimum_salary_full_time_sgd": {
+    "value": "UNKNOWN",
+    "confirmation": "USER_INPUT_REQUIRED"
+  },
+  "last_confirmed_at": ""
+}

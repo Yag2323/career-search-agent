@@ -1,0 +1,25 @@
+.env
+.venv/
+.secrets/
+__pycache__/
+*.py[cod]
+
+# Runtime state and generated artifacts
+state/
+logs/
+job_listings/
+applications/
+resumes/
+cover_letters/
+prompts/
+
+# Candidate-specific configuration
+profile/eligibility_profile.json
+profile/evidence_catalog.json
+
+# Local tooling
+.idea/
+.vscode/
+.pytest_cache/
+Thumbs.db
+desktop.ini

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "claims": [
+    {
+      "id": "example-python-project",
+      "claim": "Built a Python automation project",
+      "terms": ["python", "automation"],
+      "evidence": "Replace this example with a concise, verifiable project description.",
+      "status": "USER_CONFIRMED"
+    }
+  ],
+  "known_missing_skills": []
+}
